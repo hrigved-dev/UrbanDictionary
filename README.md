@@ -5,7 +5,7 @@ Since the usage of social media is increasing even in these older generations, t
 Hence, this Urban Dictionary Desktop App acts as barrier to enrich them with the urban words by getting the meaning with a single click.
 
 ## Screenshots
-![first](1 more.png)
+![first](1more.png)
 
 Here is how it works:
 https://www.linkedin.com/posts/hrigved-khatavkar-1a5b33165_hey-guys-this-is-a-desktop-application-ugcPost-6764177443482804224-H47f
